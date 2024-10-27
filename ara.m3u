@@ -802,3 +802,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-id="ZitounaTV.tn"tvg-logo="https://i.imgur.com/LzK8fHv.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Zitouna TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Quran,Radio Quran
+https://live-c.cf.dmcdn.net/sec2(go8PDDJH9t9Fe0O2zH13OuEgnQDvjmlhLc_RLt8M8fAiV-PlMTl5QYn3Wvp3Q6zRuESxyFLbvKyMqduYDkzMKud5HzzGacG3hgzWl16c32zqqQuOB-F63I_iiy8YRMJn)/dm/3/x84wyku/s/live-480.m3u8
+
