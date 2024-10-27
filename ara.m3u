@@ -804,4 +804,17 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Quran,Radio Quran
 https://live-c.cf.dmcdn.net/sec2(go8PDDJH9t9Fe0O2zH13OuEgnQDvjmlhLc_RLt8M8fAiV-PlMTl5QYn3Wvp3Q6zRuESxyFLbvKyMqduYDkzMKud5HzzGacG3hgzWl16c32zqqQuOB-F63I_iiy8YRMJn)/dm/3/x84wyku/s/live-480.m3u8
-
+#EXTINF:-1 tvg-id="Al Masrya 1,Al Masrya 1
+https://live-b.cf.dmcdn.net/sec2(QqT_xz1o3L0Ms9r24bFyK2XnonZK8CC9xveIaK8ow-KykM0Ki50qSqG5n478kY2oBlSt1Kmw9WQNW5jQLqR836BTG_XsIIO-J0uWNJN3DH83hRWVNNBoQ2pHvV_D-ERT)/dm/3/x84nun4/s/live-480.m3u8
+#EXTINF:-1 tvg-id="Maspero Zaman,Maspero Zaman
+https://live-c.cf.dmcdn.net/sec2(_HR9HU1MAubftWTU2ugbK_uZP2pnFRudOsD3u0y2SYJxnMP_b_mYSLGeGlCklH1YgL_gDmme20nh6oaUfId4D8eKQKs5VAtL4v6YXCptpfZVcCtp1V3t1SSJP-1pz22-)/dm/3/x8n6e4h/s/live-480.m3u8
+#EXTINF:-1 tvg-id="Al Oula"tvg-logo=https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png,Al Oula
+https://live-b.cf.dmcdn.net/sec2(eTflB6P7fQHYhOht8aHEJcqjpinSYvuMe_HhoXehUsqy58pmC-trkDC5C4JZ2VmjQl3WIutP6dho_Enaa4aZm9qqriGTho4raGdvRogLKaTJuvJ2ldeJX3a4f9TXeCht)/dm/3/x856hbh/s/live-480.m3u8
+#EXTINF:-1 tvg-id="Al Sirat,Al Sirat
+https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
+#EXTINF:-1 tvg-id="U News,U News
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr1/chunks.m3u8?CMCD=cid%3D%22https%3A%2F%2Fcdn.catiacast.video%2Fabr%2F9436b5ab3c1171ab04a59af11951292f%2Fplaylist.m3u8%22%2Csid%3D%221993373e-5337-48d5-9a62-b350f3403c59%22
+#EXTINF:-1 tvg-id=",Nabaa.Nabaa
+https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1692541147.m3u8
+#EXTINF:-1 tvg-id="Tele Le,Tele Le
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
