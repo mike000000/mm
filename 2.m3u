@@ -37,8 +37,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk"tvg-logo="https://i.imgur.com/OuogLHx.png"tvg-shift=""group-title="Lebanon":http-referrer="":http-user-agent="",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn"tvg-logo="https://i.imgur.com/AkFFrS7.png"tvg-shift=""group-title="Lebanon":http-referrer="":http-user-agent="",CGTN Arabic (576p) [Not 24/7]
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb"tvg-logo="https://i.imgur.com/U9z8WBY.png"tvg-shift=""group-title="Lebanon":http-referrer="":http-user-agent="",CharityTV (1080p) [Not 24/7]
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae"tvg-logo="https://i.imgur.com/opBXx1K.png"tvg-shift=""group-title="Lebanon":http-referrer="":http-user-agent="",CNBC Arabia (1080p)
