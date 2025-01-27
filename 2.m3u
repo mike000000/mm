@@ -937,7 +937,7 @@ https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.us"tvg-logo="https://i.imgur.com/h8DioXU.png"group-title="Arabic",Logos TV Mubasher (1080p) [Not 24/7]
 https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
 #EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+https://youtu.be/fFDag3sTwBA
 #EXTINF:-1 tvg-id="MiracleChannel.se"tvg-logo="https://i.imgur.com/yrt7Rw9.png"group-title="Arabic",Miracle Channel (576p)
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 tvg-id="Sat7Arabic.cy"tvg-logo="https://i.imgur.com/BzDjQeQ.png"group-title="Cyprus",Sat 7 Arabic (240p)
@@ -964,8 +964,8 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Horrya",Al Horrya
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MESat.eg",MESat (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+#EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
+https://youtu.be/fFDag3sTwBA
 #EXTINF:-1 tvg-id="IshtarTV.iq"tvg-logo="https://i.imgur.com/qzApokm.png"group-title="Iraq",Ishtar TV (1080p)
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb"tvg-logo="https://i.imgur.com/U9z8WBY.png"group-title="Worldwide",CharityTV (1080p) [Not 24/7]
@@ -1092,8 +1092,6 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.us"tvg-logo="https://i.imgur.com/h8DioXU.png"group-title="Arabic",Logos TV Mubasher (1080p) [Not 24/7]
 https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
-#EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se"tvg-logo="https://i.imgur.com/yrt7Rw9.png"group-title="Arabic",Miracle Channel (576p)
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 tvg-id="Sat7Arabic.cy"tvg-logo="https://i.imgur.com/BzDjQeQ.png"group-title="Cyprus",Sat 7 Arabic (240p)
@@ -1120,8 +1118,8 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Horrya",Al Horrya
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MESat.eg",MESat (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+#EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
+https://youtu.be/fFDag3sTwBA
 #EXTINF:-1 tvg-id="IshtarTV.iq"tvg-logo="https://i.imgur.com/qzApokm.png"group-title="Iraq",Ishtar TV (1080p)
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb"tvg-logo="https://i.imgur.com/U9z8WBY.png"group-title="Worldwide",CharityTV (1080p) [Not 24/7]
