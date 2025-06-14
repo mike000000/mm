@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Music",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg"group-title="Egypt",Aghapy TV (1080p) [Not 24/7]
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al FadyTV.us"tvg-logo="https://i.imgur.com/7L0l0iY.png"group-title="North America",Al-Fady TV (1080p) [Not 24/7]
