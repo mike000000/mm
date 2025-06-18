@@ -202,9 +202,9 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlNaeemTV.iq"tvg-logo="https://i.imgur.com/JyWjfIB.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Al-Naeem TV (576p)
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Al-Nahar
+#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="General",Al-Nahar
 https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD"tvg-logo="https://i.imgur.com/ieckdoE.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Al-Nahar Drama
+#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.imgur.com/ieckdoE.png" group-title="Series",Al-Nahar Drama
 https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq"tvg-logo="https://i.imgur.com/mJIG5IV.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
