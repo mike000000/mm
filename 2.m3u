@@ -1693,6 +1693,8 @@ https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66
 https://youtu.be/fFDag3sTwBA
 #EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Series",Nagy On Drama
 https://fl1002.bozztv.com/ga-ondrama/index.m3u8
+#EXTINF:-1 tvg-id="OnE.eg" tvg-logo="https://i.imgur.com/EPln9yU.png" group-title="News",On E (1080p)
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CBC"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",CBC
 https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCNewsArabic.uk"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",BBC News Arabic (1080p)
