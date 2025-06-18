@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2MMonde.ma@SD"tvg-logo="https://i.imgur.com/MvpntzA.png"tvg-shift=""group-title="General":http-referrer="https://2m.ma":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://2m.ma
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@Plus1"tvg-logo="https://i.imgur.com/MvpntzA.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",2M Monde +1 (1080p)
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="Fairuz.sa"tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr"tvg-logo="https://i.imgur.com/PexhKwp.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="247BoxTV.ir"tvg-logo="https://i.imgur.com/t5AUthL.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",247 Box TV
@@ -523,8 +519,7 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Poland"tvg-logo="https://i.imgur.com/VIpQJxL.png"tvg-shift=""group-title="Comedy":http-referrer="":http-user-agent="",Fail Army (720p)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Fairuz.sa"tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Fairuz (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+
 #EXTINF:-1 tvg-id="FajerTV1.ps"tvg-logo="https://i.imgur.com/1xERxmB.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Fajer TV 1 (480p)
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FajerTV2.ps"tvg-logo="https://i.imgur.com/JkVtm2S.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Fajer TV 2 (576p)
@@ -1709,4 +1704,10 @@ https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mix_hollywood"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",mix_hollywood
 https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO_2,HBO_2"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",HBO_2"
+#EXTINF:-1 tvg-id="2MMonde.ma@SD"tvg-logo="https://i.imgur.com/MvpntzA.png"tvg-shift=""group-title="General":http-referrer="https://2m.ma":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://2m.ma
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1"tvg-logo="https://i.imgur.com/MvpntzA.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",2M Monde +1 (1080p)
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
