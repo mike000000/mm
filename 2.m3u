@@ -1696,8 +1696,8 @@ https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
 #EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"tvg-shift=""group-title="Arabic":http-referrer="":http-user-agent="",MESat (480p) [Not 24/7]
 https://youtu.be/fFDag3sTwBA
-#EXTINF:-1 tvg-id="Nagy GiftOn Drama"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",Nagy On Drama
-https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Series",Nagy On Drama
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 #EXTINF:-1 tvg-id="CBC"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",CBC
 https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCNewsArabic.uk"tvg-logo=""tvg-shift=""group-title="":http-referrer="":http-user-agent="",BBC News Arabic (1080p)
