@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Music",Fairuz (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us"tvg-logo="https://i.imgur.com/h8DioXU.png"group-title="Arabic",Logos TV Mubasher (1080p) [Not 24/7]
+https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
+#EXTINF:-1 tvg-id="LogosTVEnglish.us"tvg-logo="https://i.imgur.com/LDfEK81.png"group-title="United States",Logos TV English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg"group-title="Egypt",Aghapy TV (1080p) [Not 24/7]
@@ -31,10 +33,6 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KoogiTV.eg"tvg-logo="https://i.imgur.com/zojMTP9.png"group-title="Middle East",Koogi TV (1080p)
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LogosTVEnglish.us"tvg-logo="https://i.imgur.com/LDfEK81.png"group-title="United States",Logos TV English (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
-#EXTINF:-1 tvg-id="LogosTV.us"tvg-logo="https://i.imgur.com/h8DioXU.png"group-title="Arabic",Logos TV Mubasher (1080p) [Not 24/7]
-https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se"tvg-logo="https://i.imgur.com/yrt7Rw9.png"group-title="Arabic",Miracle Channel (576p)
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 tvg-id="Sat7Arabic.cy"tvg-logo="https://i.imgur.com/BzDjQeQ.png"group-title="Cyprus",Sat 7 Arabic (240p)
@@ -165,3 +163,5 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="HBO_2,HBO_2"
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Music",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
