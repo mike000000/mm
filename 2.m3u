@@ -393,11 +393,11 @@ http://69.64.57.208/canal2international/playlist.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8
 #EXTINF:-1 tvg-id="CarthagePlus.tn@SD"tvg-logo="https://i.imgur.com/5BsDW4B.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",Carthage+
 https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBC.eg"tvg-logo="https://i.imgur.com/8apNaLP.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",CBC (1080p)
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (1080p)
 https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD"tvg-logo="https://i.imgur.com/I8YdakH.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",CBC Drama
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
-#EXTINF:-1 tvg-id="CBCSofra.eg"tvg-logo="https://i.imgur.com/YAdk2WR.png"tvg-shift=""group-title="Lifestyle":http-referrer="":http-user-agent="",CBC Sofra (1080p)
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (1080p)
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="CekmekoyTV.tr"tvg-logo="https://i.imgur.com/sjAGFWu.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Cekmeköy TV (1080p)
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
