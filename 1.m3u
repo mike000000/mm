@@ -153,10 +153,6 @@ https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
 https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="DMCDrama.eg@SD" tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Series",DMC Drama (720p)
 https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
-#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (1080p)
-https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama
-https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="General",Al-Nahar
 https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.imgur.com/ieckdoE.png" group-title="Series",Al-Nahar Drama
