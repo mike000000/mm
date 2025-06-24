@@ -557,8 +557,8 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GaliKurdistan.iq"tvg-logo="https://i.imgur.com/Jd9DywP.png"tvg-shift=""group-title="News":http-referrer="":http-user-agent="",Gali Kurdistan (720p) [Not 24/7]
 https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
-#EXTINF:-1 tvg-id="GEMBollywood.tr"tvg-logo="https://i.imgur.com/2XASeBk.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",GEM Bollywood
-https://ca-rt.onetv.app/gembollywood/index-0.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="GEMClassic.tr"tvg-logo="https://i.imgur.com/25BhuOf.png"tvg-shift=""group-title="Classic":http-referrer="":http-user-agent="",GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMComedy.tr"tvg-logo="https://i.imgur.com/FuscfJW.png"tvg-shift=""group-title="Comedy":http-referrer="":http-user-agent="",GEM Comedy
