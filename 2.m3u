@@ -11,8 +11,8 @@ http://185.234.111.229:8000/play/a05a
 http://185.234.111.229:8000/play/a01k
 #EXTINF:-1 tvg-id="ASpor.tr"tvg-logo="https://i.imgur.com/ZhkZzLf.png"tvg-shift=""group-title="Sports":http-referrer="":http-user-agent="",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="AnadoluAgency.tr"tvg-logo="https://i.imgur.com/dWElJll.png"tvg-shift=""group-title="News":http-referrer="":http-user-agent="",AA Live (720p) [Not 24/7]
-https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AnadoluAgency.tr"tvg-logo="https://i.imgur.com/dWElJll.png"tvg-shift=""gup-title="News":http-referrer="":http-user-agent="",AA Live (720p) [Not 24/7]
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/badcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbadanTV.ir"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Abadan
 https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV.ir"tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Abalfadhl TV
@@ -168,6 +168,9 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlRayyanOldTV.qa"tvg-logo="https://i.imgur.com/4qB5iN0.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Al Rayyan Al Qadeem (1080p)
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="LBC.sa"tvg-logo="https://i.imgur.com/whyZXzW.png"tvg-shift=""group-title="General":http-referrer="https://rotana.net/":http-user-agent="",LBC (1080p)
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="AlResalah.sa"tvg-logo="https://i.imgur.com/7o4HgrP.png"tvg-shift=""group-title="Religious":http-referrer="https://rotana.net/":http-user-agent="",Al Resalah (1080p)
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
