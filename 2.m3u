@@ -394,6 +394,8 @@ https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
 https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCDrama.eg@SD"tvg-logo="https://i.imgur.com/I8YdakH.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",CBC Drama
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg"tvg-logo="https://i.imgur.com/YAdk2WR.png"tvg-shift=""group-title="Lifestyle":http-referrer="":http-user-agent="",CBC Sofra (1080p)
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="CekmekoyTV.tr"tvg-logo="https://i.imgur.com/sjAGFWu.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Cekmeköy TV (1080p)
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn"tvg-logo="https://i.imgur.com/AkFFrS7.png"tvg-shift=""group-title="News":http-referrer="":http-user-agent="",CGTN Arabic (1080p) [Not 24/7]
