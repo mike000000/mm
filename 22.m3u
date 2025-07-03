@@ -3,10 +3,7 @@
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1"tvg-logo="https://i.imgur.com/MvpntzA.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr"tvg-logo="https://i.imgur.com/PexhKwp.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",4U TV (720p)
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Abdulmajeed Abdullah (1080p)
-https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+
 #EXTINF:-1 tvg-id="ABNAfrica.us"tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq"tvg-logo="https://i.imgur.com/WhPlJzh.jpeg"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ABNsat (720p)
