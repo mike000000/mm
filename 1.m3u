@@ -191,6 +191,5 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Music",Fairuz (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="Religious",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
 
