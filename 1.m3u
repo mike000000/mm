@@ -9,8 +9,6 @@ https://ctv.icopts.app/CTV/index.fmp4.m3u8
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="Religious",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg"group-title="Egypt",Aghapy TV (1080p) [Not 24/7]
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al FadyTV.us"tvg-logo="https://i.imgur.com/7L0l0iY.png"group-title="North America",Al-Fady TV (1080p) [Not 24/7]
