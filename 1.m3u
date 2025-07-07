@@ -103,8 +103,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 #EXTINF:-1 tvg-id="AlKaheraWalNas.eg",Al Kahera Wal Nas (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 tvg-id="DMC",DMC
-https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DMC.eg@SD",DMC (720p)
+https://fl1002.bozztv.com/ga-dmc/index.m3u8
 #EXTINF:-1 tvg-id="panorama_drama",panorama_drama
 https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mix_hollywood",mix_hollywood
