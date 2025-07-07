@@ -5,7 +5,7 @@ https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="CopticTV.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV (720p)
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="ME SAT.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ME SAT (720p)
+#EXTINF:-1 tvg-id="ME SAT.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ME SAT (720p)
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
@@ -61,8 +61,7 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NoursatEnglish.lb"tvg-logo="https://i.imgur.com/RC5Kw82.png"group-title="Lebanon",Noursat English (576p)
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Horrya",Al Horrya
-https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
 https://youtu.be/fFDag3sTwBA
 #EXTINF:-1 tvg-id="IshtarTV.iq"tvg-logo="https://i.imgur.com/qzApokm.png"group-title="Iraq",Ishtar TV (1080p)
