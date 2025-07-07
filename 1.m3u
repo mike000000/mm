@@ -203,5 +203,7 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DMC.eg",DMC (1080p)
 https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD",Al-Nahar Drama
+https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 
 
