@@ -61,11 +61,8 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NoursatEnglish.lb"tvg-logo="https://i.imgur.com/RC5Kw82.png"group-title="Lebanon",Noursat English (576p)
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MESat.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"group-title="Arabic",MESat (480p) [Not 24/7]
 https://youtu.be/fFDag3sTwBA
-#EXTINF:-1 tvg-id="IshtarTV.iq"tvg-logo="https://i.imgur.com/qzApokm.png"group-title="Iraq",Ishtar TV (1080p)
-http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb"tvg-logo="https://i.imgur.com/U9z8WBY.png"group-title="Worldwide",CharityTV (1080p) [Not 24/7]
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Series",Nagy On Drama
