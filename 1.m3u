@@ -33,6 +33,8 @@ https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/chunklist_w331365743_
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us"tvg-logo="https://i.imgur.com/61eV77C.png"group-title="United States",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg",Coptic TV (720p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CSatTV.us"tvg-logo="https://i.imgur.com/fp2EaLJ.png"group-title="United States",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KoogiTV.eg"tvg-logo="https://i.imgur.com/zojMTP9.png"group-title="Middle East",Koogi TV (1080p)
@@ -185,8 +187,13 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="HBO_2,HBO_2"
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Music",Fairuz (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae",Al Yaum TV (1080p)
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+
 
