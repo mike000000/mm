@@ -63,8 +63,8 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy"tvg-logo="https://i.imgur.com/VTLQeul.png"group-title="Cyprus",Sat7 Pars (1080p)
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Series",Nagy On Drama
-https://fl1002.bozztv.com/ga-ondrama/index.m3u8
+#EXTINF:-1 tvg-id="NagyMasrDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1399_1.png" group-title="Entertainment" ,Nagy Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:0,Fairuz (1080p)
 #EXTVLCOPT:network-caching=1000
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
