@@ -68,4 +68,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 #EXTINF:0,Fairuz (1080p)
 #EXTVLCOPT:network-caching=1000
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg"tvg-shift=""group-title="":http-referrer="":http-user-agent="",Nagy MBC AFLAM
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 
